@@ -52,7 +52,7 @@ We can have an disaster communication systems during such times which uses an em
 
 SIMULATIONS:
 
-Simulations try to model the real disaster and a proper simulation could reveal more about the hidden parameters related to the disaster which can be monitored from then on for predicting the disaster. Hence simulations are very important. Even otherwise, simulations modelling the actual scenario could be useful in predicting the disaster.
+Simulations try to model the real disaster and a proper simulation could reveal more about the hidden parameters related to the disaster which can be monitored from then on for predicting the disaster. Hence simulations are very important. Even otherwise, simulations modelling the actual scenario could be useful in predicting the disaster. For example, simulating the tectonic plate movement can reveal lots of information about impending earthquakes if any.
 
 The simulation cyclic chain is as follows:
 
