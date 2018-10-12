@@ -15,7 +15,7 @@ We’ll look at some brief ideas in each of these phases. Making disaster predic
 
 ACTUAL REAL TIME DATA:
 
-                       My first pitch in this aspect is understanding the imminence of a natural disaster from nature itself. Some animals have extraordinary sensory abilities and there have been reports that animals being able to predict natural disasters in advance. These natural “detectors” have evolved over thousands of years can be relied upon to some extent. But currently, it is more of an informal method. So we need to study such methods formally and validate them for increased reliability. The available data is still too incomplete for such a warning system: more catastrophic events, more species must be analysed to find out which animals respond to which events and how reliable they are in their response. Once validated, it would be very useful. 
+My first pitch in this aspect is understanding the imminence of a natural disaster from nature itself. Some animals have extraordinary sensory abilities and there have been reports that animals being able to predict natural disasters in advance. These natural “detectors” have evolved over thousands of years can be relied upon to some extent. But currently, it is more of an informal method. So we need to study such methods formally and validate them for increased reliability. The available data is still too incomplete for such a warning system: more catastrophic events, more species must be analysed to find out which animals respond to which events and how reliable they are in their response. Once validated, it would be very useful. 
 Now, we can start with animals which we already know can predict the disasters and track their movements using:
 
 -Satellites
