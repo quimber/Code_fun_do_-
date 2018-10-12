@@ -49,3 +49,16 @@ MANAGING:
 
 During disaster times, it is difficult for rescue operations because of the damage created by the disaster and it becomes very difficult to rescue people and people go missing. Mobile communication systems generally go down during a disaster. This causes very huge problems.
 We can have an disaster communication systems during such times which uses an emergency protocol and an efficient alogrithm which can handle such huge traffic. For example, each mobile operator should provide a disaster helpline number (specific to the operator) for its users in their contact list for if we have a common helpline, there would be huge traffic.( The government should take control of the mobile service providing centres after a disaster has happened). This helpline becomes active only during disaster times. So, when the user gives a call or gives a text message to that number, it allows the operator to gain all information about the location, the battery in the phone etc.,(This location information should be based on more basic aspects of a cell phone rather than GPS in order to know the location even when the phone is off). Putting together all such data and an effiecnt algorithm to calculate which person or a group is on a more risky site, which user or a group needs immediate help etc., based on the data derived from their cell phones after their calls. Based on this protocol, we can deploy rescue operations efficiently and hence, increase the ouput of the whole rescue operation.
+
+SIMULATIONS:
+
+Simulations try to model the real disaster and a proper simulation could reveal more about the hidden parameters related to the disaster which can be monitored from then on for predicting the disaster. Hence simulations are very important. Even otherwise, simulations modelling the actual scenario could be useful in predicting the disaster.
+
+The simulation cyclic chain is as follows:
+
+Computational model -> Simulation result -> Nature’s true value -> Experimental measure -> Mathematical model -> Computational model
+
+We can follow the above model to create our simulations.
+
+So as time progresses, based on nature’s true value and experimental measure, the simulation evolves and finally it could model such real-world disasters very well which is helpful for mitigation.
+
